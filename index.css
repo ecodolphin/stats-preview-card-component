@@ -1,0 +1,50 @@
+body {
+	background-color: #0A0C1C;
+	/*
+	font-family: Inter;
+	font-size: 16px;
+	text-align: center;
+	*/
+}
+
+#main {
+	width: 1100px;
+	height: 446px;
+	border-radius: 10px;
+	background-color: #1B1937;
+	margin: auto;
+}
+
+/* 
+h1 {
+	font-size: 200%;
+	color: white;
+	text-decoration-style: bold;
+}
+
+#insights {
+	color: #AB5CDB;
+}
+
+#main-left {
+	float: right;
+	background-color: #1B1937;
+}
+
+#main-right {
+	float: left;
+}
+
+img {
+	background-color: ;
+}
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center; 
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+*/
