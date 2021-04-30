@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshots
 
-![Mobile](./screenshots/mobile.jpg)
+![Mobile](./screenshots/mobile.png)
 
-![Desktop](./screenshots/desktop.jpg)
+![Desktop](./screenshots/desktop.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ecodolphin.github.io/stats-preview-card-component/](https://ecodolphin.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -51,6 +51,7 @@ Users should be able to:
 - Modern web design - it's all about responsibility and adoptiveness, Grids/Flexboxes are essentials though
 - Mobile first
 - In some strange way sometimes font-size affects on total size of an element, even if it's no text within it, at least when rendering with Firefox
+- Save untracked files before repo relocation...
 
 ### Continued development
 
